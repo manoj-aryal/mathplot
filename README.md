@@ -1,7 +1,8 @@
 For Gaussian distribution:
 
 Functions:
-	- Mean 
+    
+    - Mean 
     - Standard deviation 
     - Probability density function
     - Add together two Gaussian distributions
@@ -12,7 +13,8 @@ Functions:
 For Binomial distribution:
 
 Functions:
-	- Mean
+   
+   - Mean
     - Standard deviation
     - Probability and number of trials from the data set
     - Probability density function
