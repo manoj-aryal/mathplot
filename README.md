@@ -1,3 +1,5 @@
+url: https://pypi.org/project/mathplot/
+
 For Gaussian distribution:
 
 Functions:
