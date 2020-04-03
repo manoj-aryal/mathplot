@@ -1,9 +1,3 @@
-url: https://pypi.org/project/mathplot/
-
-
-To install: pip install mathplot
-
-
 For Gaussian distribution:
 
 Functions:
