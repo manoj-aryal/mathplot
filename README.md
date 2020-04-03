@@ -14,7 +14,7 @@ For Binomial distribution:
 
 Functions:
    
-   - Mean
+    - Mean
     - Standard deviation
     - Probability and number of trials from the data set
     - Probability density function
